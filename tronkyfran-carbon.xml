@@ -18,7 +18,7 @@ Element color: Search and replace colors. Do not use spaces!
 <theme>
     <formatVersion>3</formatVersion>
 
-	<view name="system">
+	<!-- <view name="system">
 
 		<image name="background" extra="true">
 			<tile>true</tile>
@@ -55,6 +55,14 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>8b0000</color>
 		</image>
 
+	</view> -->
+
+	<view name="system">
+		<image name="background" extra="true">
+		<size>0 1</size>
+		<pos>0.5 0.5</pos>
+		<origin>0.5 0.5</origin>
+		</image>
 	</view>
 
 	<view name="basic">
