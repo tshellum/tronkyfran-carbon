@@ -18,45 +18,6 @@ Element color: Search and replace colors. Do not use spaces!
 <theme>
     <formatVersion>3</formatVersion>
 
-	<!-- <view name="system">
-
-		<image name="background" extra="true">
-			<tile>true</tile>
-			<size>1 1</size>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<path>./art/carbon_fiber.png</path>
-		</image>
-
-		<helpsystem name="help">
-			<textColor>7d7d7d</textColor>
-			<iconColor>7d7d7d</iconColor>
-		</helpsystem>
-
-		<image name="CenterFade" extra="true">
-			<tile>false</tile>
-			<size>1 0.5</size>
-			<pos>0.5 0.5</pos>
-			<origin>0.5 0.5</origin>
-			<path>./art/centerfade.png</path>
-			<color>8b000050</color>
-		</image>
-
-		<image name="BottomBar" extra="true">
-			<tile>false</tile>
-			<size>1 0.065</size>
-			<pos>0 1</pos>
-			<origin>0 1</origin>
-			<path>./art/bottom.png</path>
-			<color>8b0000c0</color>
-		</image>
-
-		<image name="ControllerOverlay" extra="true">
-			<color>8b0000</color>
-		</image>
-
-	</view> -->
-
 	<view name="system">
 		<image name="background" extra="true">
 		<size>0 1</size>
